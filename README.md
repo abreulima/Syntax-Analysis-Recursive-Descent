@@ -5,8 +5,8 @@ Implemente (em C, Java ou Python) os analisadores sintáticos descendentes recur
 a)  
 E → E + T | T \
 T → T ∗ F | F \
-F → a | ( E ) \
+F → a | ( E )
    
 b)  
 I → a A \
-A → { a | n } \
+A → { a | n }
