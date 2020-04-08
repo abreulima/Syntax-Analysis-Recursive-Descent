@@ -1,0 +1,63 @@
+aa
+a
+└── a
+
+an
+a
+└── n
+
+ana
+a
+└── n
+    └── a
+
+anana
+a
+└── n
+    └── a
+        └── n
+            └── a
+
+annaa
+a
+└── n
+    └── n
+        └── a
+            └── a
+
+aaann
+a
+└── a
+    └── a
+        └── n
+            └── n
+
+aanan
+a
+└── a
+    └── n
+        └── a
+            └── n
+
+annnn
+a
+└── n
+    └── n
+        └── n
+            └── n
+
+aaaaa
+a
+└── a
+    └── a
+        └── a
+            └── a
+
+annnna
+a
+└── n
+    └── n
+        └── n
+            └── n
+                └── a
+
